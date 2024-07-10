@@ -119,7 +119,8 @@ body{
     height: 1395px;
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
-    margin-bottom: 90px;
+    margin-top: 30px;
+    padding-top: 30px;
  }
  .all-item-dream{
     margin: 0 auto;
@@ -127,7 +128,7 @@ body{
     margin-right: 90px;
     margin-top: 80px; 
     /* width: 946px; */
-    margin-bottom: 30px;
+    margin-bottom: 10px;
  }
  .title-dm{
     color: rgb(13, 19, 33);
@@ -153,7 +154,6 @@ body{
  }
  .box-head{
     color: rgba(13, 19, 33, 0.7);
-    font-family: Azeret Mono;
     font-size: 24px;
     font-weight: 700;
     line-height: 36px;
@@ -170,7 +170,7 @@ body{
     letter-spacing: 0%;
     text-align: left;
     margin-left: 40px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
  }
  .box-btn{
     margin-left: 40px;
@@ -197,6 +197,7 @@ body{
     font-size: 32px;
     font-weight: 800;
     line-height: 37px;
+    margin-top: 40px;
  }
  .ins-head{
     color: rgb(13, 19, 33);
@@ -457,4 +458,11 @@ body{
 }
 .social-media-link a{
    margin-right: 19px;
+}
+.banner-btn-hero a{
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   font-size: 20px;
+   font-weight: 600;
+   line-height: 23px;
 }
